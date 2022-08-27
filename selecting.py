@@ -10,4 +10,4 @@ select = Select(driver.find_element_by_id('fruits01'))
 select.select_by_visible_text('Banana')
 
 # select by value
-select.select_by_value('1')
+select.select_by_value('1')dgdsghhr
